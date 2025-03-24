@@ -20,9 +20,9 @@ const EMAIL_PASSWORD_REQUIRED = `Email and password are required`;
 
 const INVALID_CREDENTIALS = `Invalid credentials`;
 
-const TOKEN_EXPIRE_TIME = "24h";
+const TOKEN_EXPIRE_TIME = `24h`;
 
-const requiredFields = ["firstName", "lastName", "email", "password"];
+const requiredFields = [`firstName`, `lastName`, `email`, `password`];
 
 const MISSING_DETAILS = `Missing required user details`;
 
